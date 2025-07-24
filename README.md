@@ -5,7 +5,7 @@
 - COMPANY : CodSoft
 - ID : CS25RY74929
 - DOMAIN : Artificial Intelligence
-- TASK NO : Task 4
+- TASK NO : Task 3
 
 This project combines Computer Vision and Natural Language Processing to generate captions for images.
 
